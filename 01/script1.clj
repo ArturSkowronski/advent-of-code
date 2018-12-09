@@ -1,0 +1,1 @@
+(reduce + (map  #(Integer/parseInt %) (line-seq (clojure.java.io/reader "/Users/arturskowronski/Priv/AdventOfCode/01/input"))))

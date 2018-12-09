@@ -1,0 +1,4 @@
+{:deps
+{tupelo/tupelo {:mvn/version "0.9.112"
+clj-time {:mvn/version "0.14.2"}
+}}}
